@@ -1,0 +1,1 @@
+A simple web app to try out typescript with babel and webpack
